@@ -1,6 +1,11 @@
-/*--
-Case study questions
---*/
+
+----------------------------------
+-- CASE STUDY #1: DANNY'S DINER --
+----------------------------------
+
+-- Author: Sivaranjani P
+-- Tool used: MySQL Server
+
 -- 1. What is the total amount each customer spent at the restaurant?
 SELECT 
 	s.customer_id, 
